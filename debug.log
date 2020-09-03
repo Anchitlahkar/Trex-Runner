@@ -1,0 +1,15 @@
+[0824/095638.976:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0824/100638.974:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0824/100638.975:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0824/101138.979:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0824/102638.981:ERROR:crash_report_database_win.cc(429)] unexpected header
+[0830/135752.137:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0830/135752.755:ERROR:exception_snapshot_win.cc(99)] thread ID 5480 not found in process
+[0830/135752.137:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0830/135752.755:ERROR:exception_snapshot_win.cc(99)] thread ID 16640 not found in process
+[0830/135752.137:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0830/135752.755:ERROR:exception_snapshot_win.cc(99)] thread ID 14688 not found in process
+[0830/135752.137:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0830/135752.771:ERROR:exception_snapshot_win.cc(99)] thread ID 6112 not found in process
+[0830/135752.886:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0830/135752.886:ERROR:exception_snapshot_win.cc(99)] thread ID 10224 not found in process
